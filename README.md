@@ -21,3 +21,7 @@ o Minimum distance of the line from P 1 P 2 from P 0 > radius player
 o Smallest rectangle containing P 1 and P 2 also contains P 0 .
 
 ![image](https://user-images.githubusercontent.com/73772907/221599402-9b9a551b-2468-427a-803f-e668a31724ca.png)
+
+#sample
+![image](https://user-images.githubusercontent.com/73772907/221599987-06594b3b-a98a-4635-93ed-9fe5cfc0ac90.png)
+
